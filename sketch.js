@@ -41,6 +41,7 @@ let End1 = 1003;
 let CurrentScreen = MainMenu;
 
 
+
 let R1 = 601;
 let R2 = 602;
 let L1 = 603;
@@ -991,7 +992,10 @@ function draw()
             break;
         case C1:
             {
-                text('Credit1screen',400,400)
+                push()
+                textSize(50)
+                text('Made by Jaeyeong An',200,400)
+                pop()
             }
             break;
         case E1:

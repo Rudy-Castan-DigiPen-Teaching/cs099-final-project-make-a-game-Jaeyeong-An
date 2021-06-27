@@ -1,22 +1,20 @@
 ### High Concept
 
-As clearly and simply as you can, explain your game idea.
+Collect evidence By interacting with people and surroundings through the choices.
+And based on the evidence, identifying one in three suspects.
 
 ### Theme
 
 Your game must adhere to the following theme: **Take One, Leave The Rest**
 
-    - The theme/setting/scenario/mechanic of your game must be something that involves this theme.
+The genre is reasoning(mystery).
 
+It's a mystery game where you gather evidence through multiple options and conversations and finally find the culprit among the three suspects.
 
-Explain how your game idea works with the theme.
 
 ### Mock Ups
 
-Create a visual flow of the User Experience (How will people interact with the program and what will they see when doing so?)
+"visual flow1.jpg" & "visual flow1.jpg" are visual flow of the User Experience
 
-Visually draw out things like Main Menu, Credits, Options, Play etc...
+The player can click to select a selection and choose a place to go on the mini map, proceed with the conversation via the f key, and open and close the minimap via the m key.
 
-Provide a rough drawing of what the play scene(s) look like. How is it organized? What is the User Interface? How do players interact with the game?
-
-We are looking for rough sketches, flow charts and concept images.
